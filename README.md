@@ -16,3 +16,5 @@
 ![sql_basic certificate](https://github.com/tuanng1102/Certificates/assets/147653892/7adc989a-8c33-4d2f-8a3a-589f81f45da4)
 
 ![sql_intermediate certificate](https://github.com/tuanng1102/Certificates/assets/147653892/2c5cee75-221a-476d-8628-1294dfb8da3d)
+
+![python_basic certificate1](https://github.com/tuanng1102/Certificates/assets/147653892/1755ab88-8951-46f1-8490-155bccdeaf0a)
