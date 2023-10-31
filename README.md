@@ -1,3 +1,6 @@
+SKILLS
+# Python
+
 # CERTIFICATES
 ## Udemy
 
