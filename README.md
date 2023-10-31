@@ -1,5 +1,7 @@
 SKILLS
 # Python
+- Create and classify with kmeans - https://github.com/tuanng1102/create-and-cassify-with-kmeans
+- House price prediction - https://github.com/tuanng1102/house-price-prediction
 
 # CERTIFICATES
 ## Udemy
