@@ -1,6 +1,6 @@
 # PROJECT
 ### Python and Machine learning
-- Create and classify with kmeans - https://github.com/tuanng1102/create-and-classify-with-kmeans
+- Loan repayment prediction - https://github.com/tuanng1102/loan-repayment-prediction
 - House price prediction - https://github.com/tuanng1102/house-price-prediction
 
 # CERTIFICATES
