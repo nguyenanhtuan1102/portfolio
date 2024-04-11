@@ -2,6 +2,8 @@
 ### Python and Machine learning
 - Loan repayment prediction - https://github.com/tuanng1102/loan-repayment-prediction
 - House price prediction - https://github.com/tuanng1102/house-price-prediction
+- Classify image with neural network on fashion mnist dataset - https://github.com/tuanng1102/classify-image-with-neural-network-on-fashion-mnist-dataset
+- Classify image with artificial neural network on mnist dataset - https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset
 
 # CERTIFICATES
 ### Udemy
