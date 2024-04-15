@@ -1,4 +1,4 @@
-# PROJECT
+# PROJECTS
 ### Machine learning
 - Loan repayment prediction - https://github.com/tuanng1102/loan-repayment-prediction
 - House price prediction - https://github.com/tuanng1102/house-price-prediction
