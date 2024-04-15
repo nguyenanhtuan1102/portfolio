@@ -6,6 +6,9 @@
 - Classify image on fashion mnist dataset - https://github.com/tuanng1102/classify-image-with-neural-network-on-fashion-mnist-dataset
 - Classify image on mnist dataset - https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset
 
+### Natural Language Processing
+- Resume Screening App - https://github.com/tuanng1102/resume-screening-app
+
 # CERTIFICATES
 ### Udemy
 
