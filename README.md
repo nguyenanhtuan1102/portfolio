@@ -13,7 +13,7 @@ The project aims to predict the stock prices in Vietnam using the Prophet algori
 
 <br />
 
-### Artificial Neural Network
+## Artificial Neural Network
 
 <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310400073-ef6d64e4-b12c-4293-81e8-655962fbab90.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDAyMzEsIm5iZiI6MTcxMzUzOTkzMSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDAwMDczLWVmNmQ2NGU0LWIxMmMtNDI5My04MWU4LTY1NTk2MmZiYWI5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTE4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDMyZWEyZmJhNDRmM2RiMGJkMDZkZjAwNmU4NDJmZmM2ZWNhMTAzZDZmMWNhNTVkY2E0NjNjMGQzZTI4NzcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QrIovOELrIii-VHyrwlbuV7GnRr8YXsY8fZXmkgB9UQ"> **[Numeric Classification](https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset)**
 
@@ -27,7 +27,7 @@ The project aims to predict the stock prices in Vietnam using the Prophet algori
 
 <br />
 
-### Natural Language Processing
+## Natural Language Processing
 
 <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/323616752-dd0bd95e-40fe-4372-a62d-7cb30d2fde76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDA0NTIsIm5iZiI6MTcxMzU0MDE1MiwicGF0aCI6Ii8xNDc2NTM4OTIvMzIzNjE2NzUyLWRkMGJkOTVlLTQwZmUtNDM3Mi1hNjJkLTdjYjMwZDJmZGU3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIyMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDljYzE2NDJmZmM2M2QyOWQwYTI2MDU3NmUyYzU4YmM5ZjYwMTM1MWFhMmJmODM3MDVkMzhhNzQ1YmYwNjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M_blrT6wON1Ep5As8lA6ukB3awTSrScRm9_DCfxJiig"> **[Automated Resume Screening Application](https://github.com/tuanng1102/resume-screening-app)**
 
@@ -42,7 +42,7 @@ The project aims to predict the stock prices in Vietnam using the Prophet algori
 <br />
 
 # CERTIFICATES
-### Udemy
+## Udemy
 
 ![data-science](https://github.com/tuanng1102/Certificates/assets/147653892/800c30bd-99c4-4d3d-9c20-7e72b94a8e2a)
 
@@ -54,7 +54,7 @@ The project aims to predict the stock prices in Vietnam using the Prophet algori
 
 ![data-warehouse](https://github.com/tuanng1102/Certificates/assets/147653892/b9c026c2-499d-4ea4-88ed-d1f576023947)
 
-### HackerRank
+## HackerRank
 
 ![sql_basic certificate](https://github.com/tuanng1102/Certificates/assets/147653892/7adc989a-8c33-4d2f-8a3a-589f81f45da4)
 
