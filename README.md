@@ -8,7 +8,7 @@
 
 ### Natural Language Processing
 - Resume Screening App - https://github.com/tuanng1102/resume-screening-app
-- Sentiment Analysis App - https://github.com/tuanng1102/sentiment-analysis-app
+- Emotion Analysis App - https://github.com/tuanng1102/sentiment-analysis-app
 
 # CERTIFICATES
 ### Udemy
