@@ -1,7 +1,7 @@
 # PROJECTS
 ## Machine learning
 
-<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310412900-823dc2e6-426c-40b1-b7aa-914dd954a971.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1Mzk4MjUsIm5iZiI6MTcxMzUzOTUyNSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDEyOTAwLTgyM2RjMmU2LTQyNmMtNDBiMS1iN2FhLTkxNGRkOTU0YTk3MS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTEyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZjQ1YjUzZGEzMjI5ZjJkOGYwNzdmZDJkZmRlM2U2N2IxZGVjZTMwMGI3OGQzNGFlOTU4MjUxMWQwNjdhY2VhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mwk6rtGVNBxWGHwAaMdUqqJ7E3fIQ2pSXtdVOVon3YY"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
+<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://storage.googleapis.com/production-payrup-assets/post/107-1661768972-658-post.jpg"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
@@ -17,13 +17,13 @@ This project aims to develop a robust machine learning model for accurately pred
 
 ## Artificial Neural Network
 
-<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310400073-ef6d64e4-b12c-4293-81e8-655962fbab90.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDAyMzEsIm5iZiI6MTcxMzUzOTkzMSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDAwMDczLWVmNmQ2NGU0LWIxMmMtNDI5My04MWU4LTY1NTk2MmZiYWI5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTE4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDMyZWEyZmJhNDRmM2RiMGJkMDZkZjAwNmU4NDJmZmM2ZWNhMTAzZDZmMWNhNTVkY2E0NjNjMGQzZTI4NzcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QrIovOELrIii-VHyrwlbuV7GnRr8YXsY8fZXmkgB9UQ"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
+<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://datasets.activeloop.ai/wp-content/uploads/2019/12/MNIST-handwritten-digits-dataset-visualized-by-Activeloop.webp"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
 The primary objective of this project is to design and implement an advanced Artificial Neural Network (ANN) model with the capability to accurately recognize handwritten digits extracted from the widely used MNIST dataset
 
 #
 
-<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310402722-7e1375cd-47be-45f1-bcb8-92d0cbb1224f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDAzMTUsIm5iZiI6MTcxMzU0MDAxNSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDAyNzIyLTdlMTM3NWNkLTQ3YmUtNDVmMS1iY2I4LTkyZDBjYmIxMjI0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIwMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNGQzZWNiYWNlMzY4M2NlOWY0OTRjODBiYmFkYjZmOWNkOWM4MmM0YzcyNDk4NjcyNTg4OTQ3NmU4YTllZTE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I5DwmPjG-dFcnRgzD662zYKuNNoDUeuue_cXpfl6zyY"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
+<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://raw.githubusercontent.com/JulianChia/fashion_mnist/master/FashionMNIST.png"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
@@ -31,14 +31,14 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ## Natural Language Processing
 
-<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/323616752-dd0bd95e-40fe-4372-a62d-7cb30d2fde76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDA0NTIsIm5iZiI6MTcxMzU0MDE1MiwicGF0aCI6Ii8xNDc2NTM4OTIvMzIzNjE2NzUyLWRkMGJkOTVlLTQwZmUtNDM3Mi1hNjJkLTdjYjMwZDJmZGU3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIyMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDljYzE2NDJmZmM2M2QyOWQwYTI2MDU3NmUyYzU4YmM5ZjYwMTM1MWFhMmJmODM3MDVkMzhhNzQ1YmYwNjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M_blrT6wON1Ep5As8lA6ukB3awTSrScRm9_DCfxJiig"> **[Automated Resume Screening Application](https://github.com/tuanng1102/resume-screening-app)**
+<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening Application](https://github.com/tuanng1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
 
 #
 
-<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/323995231-d0dc28c7-4244-43e4-bba4-9ea52e85a5af.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDA1MzIsIm5iZiI6MTcxMzU0MDIzMiwicGF0aCI6Ii8xNDc2NTM4OTIvMzIzOTk1MjMxLWQwZGMyOGM3LTQyNDQtNDNlNC1iYmE0LTllYTUyZTg1YTVhZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTczYmM0NzcwYWI4NDkxZDE2ZTYxZjg2YTU4NzI2YTUyZDI1MGNmYTY1ZmU2ODRmMzRkOTM3NDFmNDc4Mjg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JJj66sYx5MXBjw4wQ-KxyN8Jpeu7FYPPCeuL17nC6k8"> **[Emotion Analysis Application](https://github.com/tuanng1102/emotion-detection-app)**
+<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*yzFS1Nb6wWCUGHtNAULHmw.jpeg"> **[Emotion Analysis Application](https://github.com/tuanng1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
