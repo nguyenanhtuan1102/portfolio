@@ -28,6 +28,7 @@ The objective of this project is to construct an efficient Artificial Neural Net
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories such as t-shirts, trousers, dresses, etc.
 
+
 <br />
 
 ## Natural Language Processing
