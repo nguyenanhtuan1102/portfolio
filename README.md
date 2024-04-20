@@ -22,7 +22,7 @@ The Stock Price Prediction Application offers a step-by-step guide to predict st
 
 ## Artificial Neural Network
 
-<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://datasets.activeloop.ai/wp-content/uploads/2019/12/MNIST-handwritten-digits-dataset-visualized-by-Activeloop.webp"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
+<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://production-media.paperswithcode.com/datasets/MNIST-0000000001-2e09631a_09liOmx.jpg"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
 The primary objective of this project is to design and implement an advanced Artificial Neural Network (ANN) model with the capability to accurately recognize handwritten digits extracted from the widely used MNIST dataset
 
