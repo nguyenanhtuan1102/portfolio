@@ -19,8 +19,7 @@ This project aims to develop a robust machine learning model for accurately pred
 
 <a href="https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310400073-ef6d64e4-b12c-4293-81e8-655962fbab90.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDAyMzEsIm5iZiI6MTcxMzUzOTkzMSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDAwMDczLWVmNmQ2NGU0LWIxMmMtNDI5My04MWU4LTY1NTk2MmZiYWI5MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTE4NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MDMyZWEyZmJhNDRmM2RiMGJkMDZkZjAwNmU4NDJmZmM2ZWNhMTAzZDZmMWNhNTVkY2E0NjNjMGQzZTI4NzcxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QrIovOELrIii-VHyrwlbuV7GnRr8YXsY8fZXmkgB9UQ"> **[Numeric Image Classification](https://github.com/tuanng1102/ann-image-classification-with-mnist-dataset)**
 
-The objective of this project is to construct an efficient Artificial Neural Network (ANN) model capable of accurately recognizing handwritten digits from the MNIST dataset. 
-
+The primary objective of this project is to design and implement an advanced Artificial Neural Network (ANN) model with the capability to accurately recognize handwritten digits extracted from the widely used MNIST dataset
 
 #
 
@@ -34,13 +33,15 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 <a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/323616752-dd0bd95e-40fe-4372-a62d-7cb30d2fde76.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDA0NTIsIm5iZiI6MTcxMzU0MDE1MiwicGF0aCI6Ii8xNDc2NTM4OTIvMzIzNjE2NzUyLWRkMGJkOTVlLTQwZmUtNDM3Mi1hNjJkLTdjYjMwZDJmZGU3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIyMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNDljYzE2NDJmZmM2M2QyOWQwYTI2MDU3NmUyYzU4YmM5ZjYwMTM1MWFhMmJmODM3MDVkMzhhNzQ1YmYwNjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.M_blrT6wON1Ep5As8lA6ukB3awTSrScRm9_DCfxJiig"> **[Automated Resume Screening Application](https://github.com/tuanng1102/resume-screening-app)**
 
-The Automated Resume Screening Application utilizes NLP techniques and the K-Nearest Neighbors algorithm to efficiently classify resumes into relevant job categories, then deploy with Streamlit.
+The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
+
 
 #
 
 <a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/323995231-d0dc28c7-4244-43e4-bba4-9ea52e85a5af.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDA1MzIsIm5iZiI6MTcxMzU0MDIzMiwicGF0aCI6Ii8xNDc2NTM4OTIvMzIzOTk1MjMxLWQwZGMyOGM3LTQyNDQtNDNlNC1iYmE0LTllYTUyZTg1YTVhZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIzNTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTczYmM0NzcwYWI4NDkxZDE2ZTYxZjg2YTU4NzI2YTUyZDI1MGNmYTY1ZmU2ODRmMzRkOTM3NDFmNDc4Mjg0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JJj66sYx5MXBjw4wQ-KxyN8Jpeu7FYPPCeuL17nC6k8"> **[Emotion Analysis Application](https://github.com/tuanng1102/emotion-detection-app)**
 
-The Emotion Analysis Application utilizes NLP techniques and the Logistic Regression algorithm to efficiently classify emotions of comments. Then create a web application with Streamlit.
+The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. Following the classification process, the application is transformed into a web-based interface using Streamlit for enhanced accessibility and user engagement.
+
 
 
 <br />
