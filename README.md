@@ -16,7 +16,7 @@ This project aims to develop a robust machine learning model for accurately pred
 
 <a href="https://github.com/tuanng1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/stock-market-analysis-concept_23-2148604771.jpg?w=740"> **[Stock Price Prediction App](https://github.com/tuanng1102/stock-price-prediction-app)**
 
-The Stock Price Prediction Application offers a step-by-step guide to predict stock prices using historical data and ARIMA modeling. It enables users to visualize stock data, select suitable models, train the models, evaluate performance metrics, and make predictions for future stock prices. Then deploy with Streamlit.
+The Stock Price Prediction Application offers a step-by-step guide to predict stock prices using historical data using ARIMA. It enables users to visualize stock data, select suitable models, train the models, evaluate performance metrics, and make predictions. Then deploy with Streamlit.
 
 <br />
 
