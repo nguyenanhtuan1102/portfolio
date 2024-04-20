@@ -28,7 +28,7 @@ The primary objective of this project is to design and implement an advanced Art
 
 #
 
-<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://raw.githubusercontent.com/JulianChia/fashion_mnist/master/FashionMNIST.png"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
+<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://repository-images.githubusercontent.com/551880225/63622c63-717c-4b14-8a18-d750e395f484"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
