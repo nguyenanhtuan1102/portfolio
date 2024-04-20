@@ -47,6 +47,11 @@ The Automated Resume Screening Application employs Natural Language Processing (
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
+#
+
+<a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://www.scnsoft.com/blog-pictures/information-security/session-mapping-for-user-identification-01.png"> **[User Identification](https://github.com/tuanng1102/user-identification)**
+
+In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
 
 <br />
