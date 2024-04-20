@@ -26,8 +26,7 @@ The objective of this project is to construct an efficient Artificial Neural Net
 
 <a href="https://github.com/tuanng1102/classify-image-with-neural-network-on-fashion-mnist-dataset"> <img align="left" width="285" height="150" src="https://private-user-images.githubusercontent.com/147653892/310402722-7e1375cd-47be-45f1-bcb8-92d0cbb1224f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM1NDAzMTUsIm5iZiI6MTcxMzU0MDAxNSwicGF0aCI6Ii8xNDc2NTM4OTIvMzEwNDAyNzIyLTdlMTM3NWNkLTQ3YmUtNDVmMS1iY2I4LTkyZDBjYmIxMjI0Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxOVQxNTIwMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNGQzZWNiYWNlMzY4M2NlOWY0OTRjODBiYmFkYjZmOWNkOWM4MmM0YzcyNDk4NjcyNTg4OTQ3NmU4YTllZTE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I5DwmPjG-dFcnRgzD662zYKuNNoDUeuue_cXpfl6zyY"> **[Fashion Item Image Classification](https://github.com/tuanng1102/classify-image-with-neural-network-on-fashion-mnist-dataset)**
 
-This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories such as t-shirts, trousers, dresses, etc.
-
+This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
 <br />
 
