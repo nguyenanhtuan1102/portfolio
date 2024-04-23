@@ -36,14 +36,14 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ## Natural Language Processing
 
-<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening Application](https://github.com/tuanng1102/resume-screening-app)**
+<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
 
 #
 
-<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/collection-cute-emoticons-reaction-social-media-set-mixed-feeling_90099-587.jpg?w=900"> **[Emotion Analysis Application](https://github.com/tuanng1102/emotion-detection-app)**
+<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/collection-cute-emoticons-reaction-social-media-set-mixed-feeling_90099-587.jpg?w=900"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
