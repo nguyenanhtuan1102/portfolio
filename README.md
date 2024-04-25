@@ -56,6 +56,23 @@ In this project, we endeavor to differentiate users across two social media plat
 
 <br />
 
+## Visualization
+
+<a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/aircraft-plane-runway-airport-terminal-building-landscape-skyline-illustration_7081-1789.jpg?w=740"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
+
+The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
+
+#
+
+<a href="https://github.com/tuanng1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/tiny-character-male-female-hold-gold-coin-dollar-sale-farming-real-estate_169479-985.jpg?w=826"> **[House Sales Dashboard](https://github.com/tuanng1102/house-sales-dashboard)**
+
+In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
+
+
+<br />
+
+
+
 # CERTIFICATES
 ## Udemy
 
