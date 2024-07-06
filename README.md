@@ -1,6 +1,6 @@
 # Contact
-- Website: nguyenanhtuan1102.github.io
-- Linkdin: linkedin.com/in/tuanng1102/
+- Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
+- Linkdin: linkedin.com/in/tuanng1102/ <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
 - gmail: tnguyenanh2003@gmail.com
 
 # PROJECTS
