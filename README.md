@@ -2,7 +2,7 @@
 
 Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
 
-Linkdin: linkedin.com/in/tuanng1102/ <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
+Linkdin: <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
 
 Gmail: tnguyenanh2003@gmail.com
 
