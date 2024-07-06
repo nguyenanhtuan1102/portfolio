@@ -1,5 +1,10 @@
+# Contact
+- Website: nguyenanhtuan1102.github.io
+- Linkdin: linkedin.com/in/tuanng1102/
+- gmail: tnguyenanh2003@gmail.com
+
 # PROJECTS
-## Machine learning
+### Machine learning
 
 <a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://storage.googleapis.com/production-payrup-assets/post/107-1661768972-658-post.jpg"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
@@ -20,7 +25,7 @@ The Stock Price Prediction Application offers a step-by-step guide to predict st
 
 <br />
 
-## Artificial Neural Network
+### Artificial Neural Network
 
 <a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://production-media.paperswithcode.com/datasets/MNIST-0000000001-2e09631a_09liOmx.jpg"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
@@ -34,7 +39,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 <br />
 
-## Natural Language Processing
+### Natural Language Processing
 
 <a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
@@ -56,7 +61,7 @@ In this project, we endeavor to differentiate users across two social media plat
 
 <br />
 
-## Visualization
+### Visualization
 
 <a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/aircraft-plane-runway-airport-terminal-building-landscape-skyline-illustration_7081-1789.jpg?w=740"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
 
@@ -74,7 +79,7 @@ In this project, we endeavor to differentiate users across two social media plat
 
 
 # CERTIFICATES
-## Udemy
+### Udemy
 
 ![data-science](https://github.com/tuanng1102/Certificates/assets/147653892/800c30bd-99c4-4d3d-9c20-7e72b94a8e2a)
 
