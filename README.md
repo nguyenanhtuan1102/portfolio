@@ -87,16 +87,17 @@ In this project, we endeavor to differentiate users across two social media plat
 
 ### Google
 
-- Google Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate <a href="https://www.coursera.org/account/accomplishments/professional-cert/TDU8CMQPHD8L/">view</a>
 
 ### HackerRank
 
-- SQL Advanced Certificate
+- SQL Advanced Certificate <a href="https://www.hackerrank.com/certificates/7b5636a5253f">view</a>
+- Python Basic Certificate <a href="https://www.hackerrank.com/certificates/34f66440f720">view</a>
 
 ### Udemy
 
-- Complete Python Bootcamp
-- Data Warehouse
-- SQL and Database Design
-- Complete Data Science Bootcamp
-- Machine Learning Certificate
+- Complete Python Bootcamp <a href="https://www.udemy.com/certificate/UC-01271e9f-f720-4a1f-a7f4-5a8acbe7e75f/">view</a>
+- Data Warehouse <a href="https://www.udemy.com/certificate/UC-6b8944b7-3a6f-4563-a0e5-398e62caf417/">view</a>
+- SQL and Database Design <a href="https://www.udemy.com/certificate/UC-e8d8b0fe-0e90-41c8-99b1-8c12ab9cae14/">view</a>
+- Complete Data Science Bootcamp <a href="https://www.udemy.com/certificate/UC-a374808d-4512-481b-8444-cd4270f08f35/">view</a>
+- Machine Learning Certificate <a href="https://www.udemy.com/certificate/UC-949006ed-ea0c-48a7-976d-c6612318b364/">view</a>
