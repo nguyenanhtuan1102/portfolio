@@ -1,4 +1,4 @@
-# Contact
+# CONTACTS
 
 Welcome to my data science portfolio, featuring key projects that demonstrate my skills in data analysis, machine learning, and visualization. Each project includes detailed explanations and results to highlight my problem-solving abilities and technical expertise.
 
@@ -87,11 +87,11 @@ In this project, we endeavor to differentiate users across two social media plat
 
 ### Google
 
-- Google Data Analytics
+- Google Data Analytics Professional Certificate
 
 ### HackerRank
 
-- SQL Intermediate
+- SQL Advanced Certificate
 
 ### Udemy
 
@@ -99,3 +99,4 @@ In this project, we endeavor to differentiate users across two social media plat
 - Data Warehouse
 - SQL and Database Design
 - Complete Data Science Bootcamp
+- Machine Learning Certificate
