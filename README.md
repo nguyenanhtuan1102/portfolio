@@ -1,5 +1,7 @@
 # Contact
 
+Welcome to my data science portfolio, featuring key projects that demonstrate my skills in data analysis, machine learning, and visualization. Each project includes detailed explanations and results to highlight my problem-solving abilities and technical expertise.
+
 Portfolio website: <a href="https://nguyenanhtuan1102.github.io/">nguyenanhtuan1102.github.io</a>
 
 Linkdin: <a href="https://linkedin.com/in/tuanng1102/">linkedin.com/in/tuanng1102/</a>
