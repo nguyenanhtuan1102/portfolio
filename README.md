@@ -24,15 +24,11 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
-
-
 <br />
 
 <a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://img.freepik.com/free-vector/credit-score-flat-composition-with-cityscape-background-doodle-human-characters-with-coins-new-house-vector-illustration_1284-83827.jpg?t=st=1713581157~exp=1713584757~hmac=023bcc058c6505bf2a4d5e4e918f9d15732975acbdf728ba61cf4123a045a922&w=826"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
 
 This project aims to develop a robust machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
-
-<br />
 
 <br />
 
@@ -50,8 +46,6 @@ The primary objective of this project is to design and implement an advanced Art
 
 <br />
 
-<br />
-
 <a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://repository-images.githubusercontent.com/551880225/63622c63-717c-4b14-8a18-d750e395f484"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
@@ -64,9 +58,6 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
-
-<br />
-
 <br />
 
 <a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/collection-cute-emoticons-reaction-social-media-set-mixed-feeling_90099-587.jpg?w=900"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
@@ -75,12 +66,9 @@ The Emotion Analysis Application harnesses Natural Language Processing (NLP) tec
 
 <br />
 
-<br />
-
 <a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://www.scnsoft.com/blog-pictures/information-security/session-mapping-for-user-identification-01.png"> **[User Identification](https://github.com/tuanng1102/user-identification)**
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
-
 
 <br />
 
@@ -89,8 +77,6 @@ In this project, we endeavor to differentiate users across two social media plat
 <a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/aircraft-plane-runway-airport-terminal-building-landscape-skyline-illustration_7081-1789.jpg?w=740"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
-
-<br />
 
 <br />
 
