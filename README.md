@@ -2,10 +2,10 @@
 
 I am a skilled data scientist with expertise in Python, R, SQL, and technologies like Machine Learning, Deep Learning, and NLP. I excel in data visualization with Tableau and Excel, and I am proficient in tools like Git, Docker, and Jupyter Notebook.
 
-- ```Programing Language```: Python (numpy, pandas, matplotlib, scikit-learn, etc), R, SQL
-- ```Technologies```: Time Series Analysis, Machine Learning, Deep Learning, Statistics, Data structure and algorithms, Natural Language Processing, Generative AI
-- ```Visualization```: Tableau, Apache Superset, Looker Studio, Excel
-- ```Tools```: Git, Docker, Microsoft SQL Sever, Pycharm, Jupyter Notebook, LangChain, Streamlit
+- **Programing Language**: Python (numpy, pandas, matplotlib, scikit-learn, etc), R, SQL
+- **Technologies**: Time Series Analysis, Machine Learning, Deep Learning, Statistics, Data structure and algorithms, Natural Language Processing, Generative AI
+- **Visualization**: Tableau, Apache Superset, Looker Studio, Excel
+- **Tools**: Git, Docker, Microsoft SQL Sever, Pycharm, Jupyter Notebook, LangChain, Streamlit
 
 # CONTACTS
 
