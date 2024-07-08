@@ -1,3 +1,12 @@
+# SKILLS
+
+I am a skilled data scientist with expertise in Python, R, SQL, and technologies like Machine Learning, Deep Learning, and NLP. I excel in data visualization with Tableau and Excel, and I am proficient in tools like Git, Docker, and Jupyter Notebook.
+
+- ```Programing Language```: Python (numpy, pandas, matplotlib, scikit-learn, etc), R, SQL
+- ```Technologies```: Time Series Analysis, Machine Learning, Deep Learning, Statistics, Data structure and algorithms, Natural Language Processing, Generative AI
+- ```Visualization```: Tableau, Apache Superset, Looker Studio, Excel
+- ```Tools```: Git, Docker, Microsoft SQL Sever, Pycharm, Jupyter Notebook, LangChain, Streamlit
+
 # CONTACTS
 
 Welcome to my data science portfolio, featuring key projects that demonstrate my skills in data analysis, machine learning, and visualization. Each project includes detailed explanations and results to highlight my problem-solving abilities and technical expertise.
@@ -9,7 +18,7 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 - Gmail: tnguyenanh2003@gmail.com
 
 # PROJECTS
-## Machine learning
+## 1. Machine learning
 
 <a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://storage.googleapis.com/production-payrup-assets/post/107-1661768972-658-post.jpg"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
@@ -34,7 +43,7 @@ The Stock Price Prediction Application offers a step-by-step guide to predict st
 
 <br />
 
-## Artificial Neural Network
+## 2. Artificial Neural Network
 
 <a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://production-media.paperswithcode.com/datasets/MNIST-0000000001-2e09631a_09liOmx.jpg"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
@@ -50,7 +59,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 <br />
 
-## Natural Language Processing
+## 3. Natural Language Processing
 
 <a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
@@ -76,7 +85,7 @@ In this project, we endeavor to differentiate users across two social media plat
 
 <br />
 
-## Data Visualization
+## 4. Data Visualization
 
 <a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/aircraft-plane-runway-airport-terminal-building-landscape-skyline-illustration_7081-1789.jpg?w=740"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
 
