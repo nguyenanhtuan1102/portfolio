@@ -25,7 +25,6 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 
-<br />
 
 <br />
 
