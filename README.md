@@ -26,21 +26,21 @@ The purpose of this project is to compare the performance of Logistic Regression
 
 <br />
 
-<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
-
-The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
-
-<br />
-
 <a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
 
 This project aims to develop a robust machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
 <br />
 
-<a href="https://github.com/tuanng1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/stock-market-analysis-concept_23-2148604771.jpg?w=740"> **[Stock Price Prediction App](https://github.com/tuanng1102/stock-price-prediction-app)**
+<a href="https://github.com/tuanng1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/bd6c7cff-c65d-4403-a413-1afeeaa097e1"> **[Stock Price Prediction App](https://github.com/tuanng1102/stock-price-prediction-app)**
 
 The Stock Price Prediction Application offers a step-by-step guide to predict stock prices using historical data using ARIMA. It enables users to visualize stock data, select suitable models, train the models, evaluate performance metrics, and make predictions. Then deploy with Streamlit.
+
+<br />
+
+<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
+
+The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 <br />
 
@@ -66,7 +66,7 @@ The Automated Resume Screening Application employs Natural Language Processing (
 
 <br />
 
-<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
+<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e6bca44f-a496-41a1-ab21-8ee51d17d2fc"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
@@ -86,13 +86,13 @@ In this project, we endeavor to differentiate users across two social media plat
 
 ## 4. Data Visualization
 
-<a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/aircraft-plane-runway-airport-terminal-building-landscape-skyline-illustration_7081-1789.jpg?w=740"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
+<a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
 <br />
 
-<a href="https://github.com/tuanng1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/tiny-character-male-female-hold-gold-coin-dollar-sale-farming-real-estate_169479-985.jpg?w=826"> **[House Sales Dashboard](https://github.com/tuanng1102/house-sales-dashboard)**
+<a href="https://github.com/tuanng1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/tuanng1102/house-sales-dashboard)**
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
