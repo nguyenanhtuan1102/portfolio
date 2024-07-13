@@ -18,7 +18,7 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 - Gmail: tnguyenanh2003@gmail.com
 
 # PROJECTS
-### 1. Machine learning
+### 1. MACHINE LEARNING
 
 <br />
 
@@ -50,7 +50,7 @@ The purpose of this project is to compare the performance of Logistic Regression
 <br />
 <br />
 
-### 2. Artificial Neural Network
+### 2. ARTIFICIAL NEURAL NETWORK
 
 <br />
 
@@ -68,7 +68,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 <br />
 <br />
 
-### 3. Natural Language Processing
+### 3. NATURAL LANGUAGE PROCESSING
 
 <br />
 
@@ -100,7 +100,7 @@ In this project, we endeavor to differentiate users across two social media plat
 <br />
 <br />
 
-### 4. Data Visualization
+### 4. DATA VISUALIZATION
 
 <br />
 
