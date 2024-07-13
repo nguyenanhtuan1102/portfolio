@@ -21,28 +21,28 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 ### 1. Machine Learning 
 
-<a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
+<a href="https://github.com/nguyenanhtuan1102/creadit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/nguyenanhtuan1102/house-price-prediction)**
 
 This project aims to develop a machine learning model for predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/bd6c7cff-c65d-4403-a413-1afeeaa097e1"> **[Stock Price Prediction App](https://github.com/tuanng1102/stock-price-prediction-app)**
+<a href="https://github.com/nguyenanhtuan1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/bd6c7cff-c65d-4403-a413-1afeeaa097e1"> **[Stock Price Prediction App](https://github.com/nguyenanhtuan1102/stock-price-prediction-app)**
 
 The Application predicts HPG stock prices using historical data by ARIMA model. It concludes visualize stock data, train the ARIMA models, evaluate and make predictions. Then deploy with Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
@@ -50,14 +50,14 @@ Aims of this project is to compare the performance of Logistic Regression with S
 
 ### 2. Artificial Neural Network
 
-<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eddf574a-255f-40c4-a02d-b696b1662a92"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
+<a href="https://github.com/nguyenanhtuan1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eddf574a-255f-40c4-a02d-b696b1662a92"> **[Numeric Image Classification](https://github.com/nguyenanhtuan1102/numeric-image-classification)**
 
 The primary objective of this project is to design and implement an Artificial Neural Network (ANN) model with the capability to recognize handwritten digits extracted from the widely used MNIST dataset
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/1eea0f55-a9e8-4c82-867d-c865e5de8662"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
+<a href="https://github.com/nguyenanhtuan1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/1eea0f55-a9e8-4c82-867d-c865e5de8662"> **[Fashion Item Image Classification](https://github.com/nguyenanhtuan1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from Fashion-MNIST dataset, and aims to recognize various clothing categories.
 
@@ -72,21 +72,21 @@ TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Re
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e6bca44f-a496-41a1-ab21-8ee51d17d2fc"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
+<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e6bca44f-a496-41a1-ab21-8ee51d17d2fc"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs NLP techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. The application is deployed by Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e3b01907-dc5f-4d00-988e-1f1600c6955e"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
+<a href="https://github.com/nguyenanhtuan1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e3b01907-dc5f-4d00-988e-1f1600c6955e"> **[Emotion Analysis App](https://github.com/nguyenanhtuan1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses NLP techniques in conjunction with the Logistic Regression algorithm to classify emotions in user comments. The application is deployed by Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f138b700-05f4-43df-b122-b04b50d37840"> **[User Identification](https://github.com/tuanng1102/user-identification)**
+<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f138b700-05f4-43df-b122-b04b50d37840"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
 
 In this amazing scientific research project, we endeavor to differentiate users across two social media platforms by leveraging three methods: Edit-distance, Text Embedding, and Keyword Extraction.
 
@@ -94,14 +94,14 @@ In this amazing scientific research project, we endeavor to differentiate users 
 
 ### 4. Data Visualization
 
-<a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
+<a href="https://github.com/nguyenanhtuan1102/british-airway-report"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/nguyenanhtuan1102/british-airway-report)**
 
 This project aims to create an interactive and insightful dashboard to analyze the British Airways dataset, uncovering trends and enhancing decision-making. Dive into a world of data-driven insights!
 
 <br />
 <br />
 
-<a href="https://github.com/tuanng1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/tuanng1102/house-sales-dashboard)**
+<a href="https://github.com/nguyenanhtuan1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/nguyenanhtuan1102/house-sales-dashboard)**
 
 This project aims to create an interactive House Sales Dashboard to analyze and visualize real estate trends, helping users make informed decisions. Discover key insights in the housing market with ease!
 
