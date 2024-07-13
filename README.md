@@ -19,8 +19,6 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 # PROJECTS
 
-<div style={border-bottom: 0; te}><h1>Tem</h1></div>
-
 ### 1. Machine Learning 
 
 <br />
