@@ -49,7 +49,6 @@ The Stock Price Prediction Application offers a step-by-step guide to predict st
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 <br />
-<br />
 
 ### 2. Artificial Neural Network
 
@@ -66,7 +65,6 @@ The primary objective of this project is to design and implement an advanced Art
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
-<br />
 <br />
 
 ### 3. Natural Language Processing
@@ -99,7 +97,6 @@ The Emotion Analysis Application harnesses Natural Language Processing (NLP) tec
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
 <br />
-<br />
 
 ### 4. Data Visualization
 
@@ -116,11 +113,7 @@ The Emotion Analysis Application harnesses Natural Language Processing (NLP) tec
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
-
 <br />
-<br />
-
-
 
 # CERTIFICATES
 
