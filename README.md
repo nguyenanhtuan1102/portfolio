@@ -20,19 +20,19 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 # PROJECTS
 ## 1. Machine learning
 
-<a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="![credit-risk-classification](https://github.com/user-attachments/assets/5877bc2b-80ba-43f0-b603-875f2d192abb)"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
+<a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 <br />
 
-<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://storage.googleapis.com/production-payrup-assets/post/107-1661768972-658-post.jpg"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
+<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 <br />
 
-<a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://img.freepik.com/free-vector/credit-score-flat-composition-with-cityscape-background-doodle-human-characters-with-coins-new-house-vector-illustration_1284-83827.jpg?t=st=1713581157~exp=1713584757~hmac=023bcc058c6505bf2a4d5e4e918f9d15732975acbdf728ba61cf4123a045a922&w=826"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
+<a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
 
 This project aims to develop a robust machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
@@ -46,13 +46,13 @@ The Stock Price Prediction Application offers a step-by-step guide to predict st
 
 ## 2. Artificial Neural Network
 
-<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://production-media.paperswithcode.com/datasets/MNIST-0000000001-2e09631a_09liOmx.jpg"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
+<a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eddf574a-255f-40c4-a02d-b696b1662a92"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
 The primary objective of this project is to design and implement an advanced Artificial Neural Network (ANN) model with the capability to accurately recognize handwritten digits extracted from the widely used MNIST dataset
 
 <br />
 
-<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://repository-images.githubusercontent.com/551880225/63622c63-717c-4b14-8a18-d750e395f484"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
+<a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/1eea0f55-a9e8-4c82-867d-c865e5de8662"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
@@ -60,19 +60,25 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ## 3. Natural Language Processing
 
+<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e9932f06-3241-42c0-a6ec-998785e7ce17"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
+
+The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
+
+<br />
+
 <a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://www.recruiterslineup.com/wp-content/uploads/2022/06/resume-screening-software.png"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
 <br />
 
-<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://img.freepik.com/premium-vector/collection-cute-emoticons-reaction-social-media-set-mixed-feeling_90099-587.jpg?w=900"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
+<a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e3b01907-dc5f-4d00-988e-1f1600c6955e"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
 <br />
 
-<a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://www.scnsoft.com/blog-pictures/information-security/session-mapping-for-user-identification-01.png"> **[User Identification](https://github.com/tuanng1102/user-identification)**
+<a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f138b700-05f4-43df-b122-b04b50d37840"> **[User Identification](https://github.com/tuanng1102/user-identification)**
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
