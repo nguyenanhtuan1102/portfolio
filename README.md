@@ -25,11 +25,13 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
 
 This project aims to develop a robust machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
+<br />
 <br />
 
 <a href="https://github.com/tuanng1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/bd6c7cff-c65d-4403-a413-1afeeaa097e1"> **[Stock Price Prediction App](https://github.com/tuanng1102/stock-price-prediction-app)**
@@ -37,11 +39,13 @@ This project aims to develop a robust machine learning model for accurately pred
 The Stock Price Prediction Application offers a step-by-step guide to predict stock prices using historical data using ARIMA. It enables users to visualize stock data, select suitable models, train the models, evaluate performance metrics, and make predictions. Then deploy with Streamlit.
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
 
+<br />
 <br />
 
 ## 2. Artificial Neural Network
@@ -51,11 +55,13 @@ The purpose of this project is to compare the performance of Logistic Regression
 The primary objective of this project is to design and implement an advanced Artificial Neural Network (ANN) model with the capability to accurately recognize handwritten digits extracted from the widely used MNIST dataset
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/1eea0f55-a9e8-4c82-867d-c865e5de8662"> **[Fashion Item Image Classification](https://github.com/tuanng1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from the Fashion-MNIST dataset, aiming to accurately recognize various clothing categories.
 
+<br />
 <br />
 
 ## 3. Natural Language Processing
@@ -65,11 +71,13 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e6bca44f-a496-41a1-ab21-8ee51d17d2fc"> **[Automated Resume Screening App](https://github.com/tuanng1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs Natural Language Processing (NLP) techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. Following classification, the application is deployed using Streamlit for seamless user interaction.
 
+<br />
 <br />
 
 <a href="https://github.com/tuanng1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e3b01907-dc5f-4d00-988e-1f1600c6955e"> **[Emotion Analysis App](https://github.com/tuanng1102/emotion-detection-app)**
@@ -77,11 +85,13 @@ The Automated Resume Screening Application employs Natural Language Processing (
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f138b700-05f4-43df-b122-b04b50d37840"> **[User Identification](https://github.com/tuanng1102/user-identification)**
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
+<br />
 <br />
 
 ## 4. Data Visualization
@@ -91,12 +101,14 @@ In this project, we endeavor to differentiate users across two social media plat
 The Emotion Analysis Application harnesses Natural Language Processing (NLP) techniques in conjunction with the Logistic Regression algorithm to effectively classify emotions conveyed in comments. The application is transformed into a web-based interface using Streamlit.
 
 <br />
+<br />
 
 <a href="https://github.com/tuanng1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/tuanng1102/house-sales-dashboard)**
 
 In this project, we endeavor to differentiate users across two social media platforms by leveraging three diverse methods: Edit-distance, Text Embedding, and Keyword Extraction. Our goal is to enhance user identification and engagement through these multifaceted approaches.
 
 
+<br />
 <br />
 
 
