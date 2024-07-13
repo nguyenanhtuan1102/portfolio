@@ -20,6 +20,12 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 # PROJECTS
 ## 1. Machine learning
 
+<a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="![credit-risk-classification](https://github.com/user-attachments/assets/5877bc2b-80ba-43f0-b603-875f2d192abb)"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
+
+The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
+
+<br />
+
 <a href="https://github.com/tuanng1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://storage.googleapis.com/production-payrup-assets/post/107-1661768972-658-post.jpg"> **[Loan Repayment Prediction](https://github.com/tuanng1102/loan-repayment-prediction)**
 
 The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
