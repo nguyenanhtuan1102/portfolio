@@ -21,7 +21,7 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 ### 1. Machine Learning 
 
-<a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
+<a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
