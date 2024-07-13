@@ -18,7 +18,9 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 - Gmail: tnguyenanh2003@gmail.com
 
 # PROJECTS
-## 1. Machine learning
+### 1. Machine learning
+
+<br />
 
 <a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
 
@@ -48,7 +50,9 @@ The purpose of this project is to compare the performance of Logistic Regression
 <br />
 <br />
 
-## 2. Artificial Neural Network
+### 2. Artificial Neural Network
+
+<br />
 
 <a href="https://github.com/tuanng1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eddf574a-255f-40c4-a02d-b696b1662a92"> **[Numeric Image Classification](https://github.com/tuanng1102/numeric-image-classification)**
 
@@ -64,7 +68,9 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 <br />
 <br />
 
-## 3. Natural Language Processing
+### 3. Natural Language Processing
+
+<br />
 
 <a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e9932f06-3241-42c0-a6ec-998785e7ce17"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
 
@@ -94,7 +100,9 @@ In this project, we endeavor to differentiate users across two social media plat
 <br />
 <br />
 
-## 4. Data Visualization
+### 4. Data Visualization
+
+<br />
 
 <a href="https://github.com/tuanng1102/british-airway-report"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/tuanng1102/british-airway-report)**
 
