@@ -19,7 +19,7 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 # PROJECTS
 
-### 1. Machine Learning 
+### Machine Learning 
 
 <br />
 
@@ -50,7 +50,7 @@ The purpose of this project is to compare the performance of Logistic Regression
 
 <br />
 
-### 2. Artificial Neural Network
+### Artificial Neural Network
 
 <br />
 
@@ -67,7 +67,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 <br />
 
-### 3. Natural Language Processing
+### Natural Language Processing
 
 <br />
 
@@ -98,7 +98,7 @@ In this project, we endeavor to differentiate users across two social media plat
 
 <br />
 
-### 4. Data Visualization
+### Data Visualization
 
 <br />
 
