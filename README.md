@@ -25,14 +25,14 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 <a href="https://github.com/tuanng1102/credit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/tuanng1102/credit-risk-classification)**
 
-The purpose of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan applications based on loan data, assessing their suitability for predicting loan approval status.
+Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
 <br />
 <br />
 
 <a href="https://github.com/tuanng1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/tuanng1102/house-price-prediction)**
 
-This project aims to develop a robust machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
+This project aims to develop a machine learning model for accurately predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
 <br />
 <br />
