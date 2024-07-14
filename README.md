@@ -65,7 +65,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ### 3. Natural Language Processing
 
-<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e9932f06-3241-42c0-a6ec-998785e7ce17"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
+<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/314e8784-9eaa-4bba-ac12-737d0f933cd1"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
 
 TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Resume Screening and developed with Flask, HTML, CSS, and deployed via AWS CodePipeline and AWS Beanstalk.
 
@@ -79,14 +79,14 @@ The Automated Resume Screening Application employs NLP techniques alongside the 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e3b01907-dc5f-4d00-988e-1f1600c6955e"> **[Emotion Analysis App](https://github.com/nguyenanhtuan1102/emotion-detection-app)**
+<a href="https://github.com/nguyenanhtuan1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4e1e3704-0ec7-4729-a884-c4e76fd05901"> **[Emotion Analysis App](https://github.com/nguyenanhtuan1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses NLP techniques in conjunction with the Logistic Regression algorithm to classify emotions in user comments. The application is deployed by Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f138b700-05f4-43df-b122-b04b50d37840"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
+<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/fdc17b5e-7067-4a99-9c4a-016353b568b5"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
 
 In this amazing scientific research project, we endeavor to differentiate users across two social media platforms by leveraging three methods: Edit-distance, Text Embedding, and Keyword Extraction.
 
