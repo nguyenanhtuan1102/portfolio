@@ -72,7 +72,7 @@ TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Re
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e6bca44f-a496-41a1-ab21-8ee51d17d2fc"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
+<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eb64b6d9-4a6e-423e-bdcb-5b7d6b788cd6"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs NLP techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. The application is deployed by Streamlit.
 
