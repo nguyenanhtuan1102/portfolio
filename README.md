@@ -42,7 +42,7 @@ The Application predicts HPG stock prices using historical data by ARIMA model. 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/22b8cff0-9c77-4b06-9108-6b15d3a44d79"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/09739640-084a-4f8f-95d8-711d42a49def"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
@@ -72,7 +72,14 @@ TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Re
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/eb64b6d9-4a6e-423e-bdcb-5b7d6b788cd6"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
+<a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/963bcca7-00cc-47a0-b31f-873d37e643f2"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
+
+This ToolApp have 3 main tools: Translate english to vietnamese, Part of Speech and Suggest similar English sentences. This app developed with gemini pro and deployed with streamlit.
+
+<br />
+<br />
+
+<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/6256c20c-eb92-4861-92ca-bdbca78f5391"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs NLP techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. The application is deployed by Streamlit.
 
