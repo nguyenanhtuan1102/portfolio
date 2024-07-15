@@ -74,7 +74,7 @@ TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Re
 
 <a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/963bcca7-00cc-47a0-b31f-873d37e643f2"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
 
-This ToolApp have 3 main tools: Translate english to vietnamese, Part of Speech and Suggest similar English sentences. This app developed with gemini pro and deployed with streamlit.
+This English Learning ToolApp have 3 main tools: Translate english to vietnamese, Part of Speech and Suggest similar English sentences. This app developed with gemini pro and deployed with streamlit.
 
 <br />
 <br />
