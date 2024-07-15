@@ -42,7 +42,7 @@ The Application predicts HPG stock prices using historical data by ARIMA model. 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a4b974c9-6ad7-4816-9c32-d5a734410261"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/22b8cff0-9c77-4b06-9108-6b15d3a44d79"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
@@ -79,14 +79,14 @@ The Automated Resume Screening Application employs NLP techniques alongside the 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4e1e3704-0ec7-4729-a884-c4e76fd05901"> **[Emotion Analysis App](https://github.com/nguyenanhtuan1102/emotion-detection-app)**
+<a href="https://github.com/nguyenanhtuan1102/emotion-detection-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/703438a8-c831-432c-becd-0b1e44d54f65"> **[Emotion Analysis App](https://github.com/nguyenanhtuan1102/emotion-detection-app)**
 
 The Emotion Analysis Application harnesses NLP techniques in conjunction with the Logistic Regression algorithm to classify emotions in user comments. The application is deployed by Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/fdc17b5e-7067-4a99-9c4a-016353b568b5"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
+<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/2bf561cd-27f7-4be4-b3dc-6ac39df6b5af"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
 
 In this amazing scientific research project, we endeavor to differentiate users across two social media platforms by leveraging three methods: Edit-distance, Text Embedding, and Keyword Extraction.
 
