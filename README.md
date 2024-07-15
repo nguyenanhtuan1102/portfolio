@@ -50,14 +50,14 @@ Aims of this project is to compare the performance of Logistic Regression with S
 
 ### 2. Artificial Neural Network
 
-<a href="https://github.com/nguyenanhtuan1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/8e7df4c5-f418-4451-8af6-30227cb6f6e3"> **[Numeric Image Classification](https://github.com/nguyenanhtuan1102/numeric-image-classification)**
+<a href="https://github.com/nguyenanhtuan1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b2bbce08-b858-4ef4-93f1-15e36a14725a"> **[Numeric Image Classification](https://github.com/nguyenanhtuan1102/numeric-image-classification)**
 
 The primary objective of this project is to design and implement an Artificial Neural Network (ANN) model with the capability to recognize handwritten digits extracted from the widely used MNIST dataset
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/2a992db1-bf4a-4690-9654-6c38b4f7977f"> **[Fashion Item Image Classification](https://github.com/nguyenanhtuan1102/fashion-item-image-classification)**
+<a href="https://github.com/nguyenanhtuan1102/fashion-item-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/97ad1c93-c0fd-4ec6-8623-756531686834"> **[Fashion Item Image Classification](https://github.com/nguyenanhtuan1102/fashion-item-image-classification)**
 
 This project utilizes Artificial Neural Network (ANN) to construct a machine learning model for classifying fashion item images from Fashion-MNIST dataset, and aims to recognize various clothing categories.
 
