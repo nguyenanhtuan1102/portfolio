@@ -65,21 +65,21 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ### 3. Natural Language Processing
 
-<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/314e8784-9eaa-4bba-ac12-737d0f933cd1"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
+<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/dc98eb17-a806-47ee-9683-041c26697ad1"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
 
 TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Resume Screening and developed with Flask, HTML, CSS, and deployed via AWS CodePipeline and AWS Beanstalk.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/963bcca7-00cc-47a0-b31f-873d37e643f2"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
+<a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a7701f1e-65ff-40ec-8bcb-1c14537a3848"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
 
 This English Learning ToolApp have 3 main tools: Translate english to vietnamese, Part of Speech and Suggest similar English sentences. This app developed with gemini pro and deployed with streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/6256c20c-eb92-4861-92ca-bdbca78f5391"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
+<a href="https://github.com/nguyenanhtuan1102/resume-screening-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/aaee047c-3ace-4a49-a09f-67d2c0dccd68"> **[Automated Resume Screening App](https://github.com/nguyenanhtuan1102/resume-screening-app)**
 
 The Automated Resume Screening Application employs NLP techniques alongside the K-Nearest Neighbors algorithm to categorize resumes into job categories. The application is deployed by Streamlit.
 
