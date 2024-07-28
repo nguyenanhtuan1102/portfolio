@@ -103,7 +103,7 @@ In this amazing scientific research project, we endeavor to differentiate users 
 
 <a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/5e21c791-83a3-48b5-939e-2e43627f3a48"> **[Danny's Diner](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner)**
 
-This project will focus on querying and analyzing data from four tables: customer, customer_nodes, customer_transaction, and regions in the Bank Data to derive valuable insights into the bank's operations.
+This project focus on querying and analyzing data from three tables: members, menu, and sales in the Database Danny's Diner to derive valuable insights into the diner's operations and customer behavior.
 
 
 <br />
@@ -111,7 +111,7 @@ This project will focus on querying and analyzing data from four tables: custome
 
 <a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Data%20Bank"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/348fea0b-6993-4d56-a359-e0daa7394ec6"> **[Data Bank](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Data%20Bank)**
 
-This project focus on querying and analyzing data from three tables: members, menu, and sales in the Database Danny's Diner to derive valuable insights into the diner's operations and customer behavior.
+This project will focus on querying and analyzing data from four tables: customer, customer nodes, customer transaction, and regions in the Bank Data to derive valuable insights into the bank's operations.
 
 
 <br />
