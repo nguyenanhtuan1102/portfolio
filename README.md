@@ -21,28 +21,28 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 ### 1. Machine Learning 
 
-<a href="https://github.com/nguyenanhtuan1102/creadit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b84df45d-2934-478e-a679-4b38a920291b"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
+<a href="https://github.com/nguyenanhtuan1102/creadit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a225e0b6-8fd8-4cb6-90c6-196d09457cf4"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/4a9ce857-ed96-4b93-85f9-a8b861b4df22"> **[House Price Prediction](https://github.com/nguyenanhtuan1102/house-price-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/95fcde58-ec24-4981-98dc-3ac8a412e5de"> **[House Price Prediction](https://github.com/nguyenanhtuan1102/house-price-prediction)**
 
 This project aims to develop a machine learning model for predicting house prices by integrating data exploration, preprocessing, feature engineering, and evaluation of multiple regression algorithms.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/bd6c7cff-c65d-4403-a413-1afeeaa097e1"> **[Stock Price Prediction App](https://github.com/nguyenanhtuan1102/stock-price-prediction-app)**
+<a href="https://github.com/nguyenanhtuan1102/stock-price-prediction-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/39268e10-0b23-4ae5-af10-de08cd99fbe7"> **[Stock Price Prediction App](https://github.com/nguyenanhtuan1102/stock-price-prediction-app)**
 
 The Application predicts HPG stock prices using historical data by ARIMA model. It concludes visualize stock data, train the ARIMA models, evaluate and make predictions. Then deploy with Streamlit.
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/09739640-084a-4f8f-95d8-711d42a49def"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
+<a href="https://github.com/nguyenanhtuan1102/loan-repayment-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/c2a62434-bd11-4b1e-916d-3ce2ee272ca1"> **[Loan Repayment Prediction](https://github.com/nguyenanhtuan1102/loan-repayment-prediction)**
 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
@@ -65,7 +65,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 ### 3. Natural Language Processing
 
-<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/dc98eb17-a806-47ee-9683-041c26697ad1"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
+<a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/9f9899cd-12c8-4d4f-8999-0ea45e9c2b46"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
 
 TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Resume Screening and developed with Flask, HTML, CSS, and deployed via AWS CodePipeline and AWS Beanstalk.
 
@@ -101,7 +101,7 @@ In this amazing scientific research project, we endeavor to differentiate users 
 
 ### 4. SQL
 
-<a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/5e21c791-83a3-48b5-939e-2e43627f3a48"> **[Danny's Diner](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner)**
+<a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/ecbb8780-f9f3-4dac-9d20-626ee003e392"> **[Danny's Diner](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner)**
 
 This project focus on querying and analyzing data from three tables: members, menu, and sales in the Database Danny's Diner to derive valuable insights into the diner's operations and customer behavior.
 
