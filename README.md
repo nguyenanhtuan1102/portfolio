@@ -1,11 +1,12 @@
+# ABOUT ME
+I am a final-year student at Ho Chi Minh University of Banking, majoring in Data Science. Motivated Data Analyst with skills in Python, SQL, and data visualization tools like Tableau and Power BI. Looking for a role where I can use my abilities to analyze data, create reports, and provide insights that help the business make better decisions. Ready to contribute to a team by turning data into clear and useful information.
+
 # SKILLS
 
-I am a skilled data scientist with expertise in Python, R, SQL, and technologies like Machine Learning, Deep Learning, and NLP. I excel in data visualization with Tableau and Excel, and I am proficient in tools like Git, Docker, and Jupyter Notebook.
-
-- **Programing Language**: Python (numpy, pandas, matplotlib, scikit-learn, etc), R, SQL
-- **Technologies**: Time Series Analysis, Machine Learning, Statistics, Data structure and algorithms, Natural Language Processing, Generative AI
-- **Visualization**: Tableau, Apache Superset, Excel
-- **Tools**: Git, Docker, Flask, Microsoft SQL Sever, Pycharm, LangChain, Streamlit
+- **Programing Language**: Python (numpy, pandas, matplotlib, scikit-learn, etc), SQL.
+- **Technologies**: Data Analysis, Statistics, Machine Learning, Natural Language Processing, Time Series Analysis.
+- **Visualization**: Power BI, Tableau.
+- **Tools**: Microsoft SQL Sever, Microsoft Office (Word, Excel, Powerrpoint), Git, Flask.
 
 # CONTACTS
 
@@ -72,7 +73,7 @@ TuanGPT - GPT PowerApps concludes 3 functions: Predict Next Word, QA Chatbot, Re
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a7701f1e-65ff-40ec-8bcb-1c14537a3848"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
+<a href="https://github.com/nguyenanhtuan1102/english-learning-app"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/d8a1d587-4c9a-4ca2-b86f-dd2125394f53"> **[English Learning ToolApp](https://github.com/nguyenanhtuan1102/english-learning-app)**
 
 This English Learning ToolApp have 3 main tools: Translate english to vietnamese, Part of Speech and Suggest similar English sentences. This app developed with gemini pro and deployed with streamlit.
 
@@ -93,7 +94,7 @@ The Emotion Analysis Application harnesses NLP techniques in conjunction with th
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/user-identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/2bf561cd-27f7-4be4-b3dc-6ac39df6b5af"> **[User Identification](https://github.com/nguyenanhtuan1102/user-identification)**
+<a href="https://github.com/nguyenanhtuan1102/User-Identification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/6c7456ae-6d10-4ea9-9bce-a183b71836c5"> **[User Identification](https://github.com/nguyenanhtuan1102/User-Identification)**
 
 In this amazing scientific research project, we endeavor to differentiate users across two social media platforms by leveraging three methods: Edit-distance, Text Embedding, and Keyword Extraction.
 
@@ -141,12 +142,9 @@ This project aims to create an interactive House Sales Dashboard to analyze and 
 ### HackerRank
 
 - SQL Advanced Certificate <a href="https://www.hackerrank.com/certificates/7b5636a5253f" target="_blank">view</a>
-- Python Basic Certificate <a href="https://www.hackerrank.com/certificates/34f66440f720" target="_blank">view</a>
 
-### Udemy
+### Microsoft Office Specialist 
 
-- Complete Python Bootcamp <a href="https://www.udemy.com/certificate/UC-01271e9f-f720-4a1f-a7f4-5a8acbe7e75f/" target="_blank">view</a>
-- Data Warehouse <a href="https://www.udemy.com/certificate/UC-6b8944b7-3a6f-4563-a0e5-398e62caf417/" target="_blank">view</a>
-- SQL and Database Design <a href="https://www.udemy.com/certificate/UC-e8d8b0fe-0e90-41c8-99b1-8c12ab9cae14/" target="_blank">view</a>
-- Complete Data Science Bootcamp <a href="https://www.udemy.com/certificate/UC-a374808d-4512-481b-8444-cd4270f08f35/" target="_blank">view</a>
-- Machine Learning Certificate <a href="https://www.udemy.com/certificate/UC-949006ed-ea0c-48a7-976d-c6612318b364/" target="_blank">view</a>
+- Microsoft Word (981 points) <a href="https://drive.google.com/file/d/1hcvpx8Y4Ky4RAYroVPTVmTCqfLYe4MD6/view?usp=drive_link">view</a>
+- Microsoft Excel (957 points) <a href="https://drive.google.com/file/d/13UyOdLEfmu9tAQJD-oMFI0CrHzO5ir_B/view?usp=drive_link" target="_blank">view</a>
+- Microsoft PowerPoint (957 points) <a href="https://drive.google.com/file/d/1be77yOr1n2OEaCezZ70KYpLTDrMGJdbo/view?usp=drive_link" target="_blank">view</a>
