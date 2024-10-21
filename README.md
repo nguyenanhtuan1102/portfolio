@@ -134,7 +134,7 @@ This project aims to create an interactive House Sales Dashboard to analyze and 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f4613cd8-4cc7-4c89-8cc4-543f55d44f0a"> **[Data Professional Survey Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard)**
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f4613cd8-4cc7-4c89-8cc4-543f55d44f0a"> **[Data Professional Survey Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard)**
 
 A comprehensive project designed to visualize, analyze, and present insights from professional survey data, highlighting key trends, skills, and challenges faced by data professionals across various industries
 
