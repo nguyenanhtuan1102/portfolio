@@ -120,16 +120,23 @@ This project will focus on querying and analyzing data from four tables: custome
 
 ### 5. Data Visualization
 
-<a href="https://github.com/nguyenanhtuan1102/british-airway-report"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/nguyenanhtuan1102/british-airway-report)**
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard)**
 
 This project aims to create an interactive and insightful dashboard to analyze the British Airways dataset, uncovering trends and enhancing decision-making. Dive into a world of data-driven insights!
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/house-sales-dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/nguyenanhtuan1102/house-sales-dashboard)**
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard)**
 
 This project aims to create an interactive House Sales Dashboard to analyze and visualize real estate trends, helping users make informed decisions. Discover key insights in the housing market with ease!
+
+<br />
+<br />
+
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f4613cd8-4cc7-4c89-8cc4-543f55d44f0a"> **[Data Professional Survey Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard)**
+
+A comprehensive project designed to visualize, analyze, and present insights from professional survey data, highlighting key trends, skills, and challenges faced by data professionals across various industries
 
 <br />
 
@@ -143,7 +150,7 @@ This project aims to create an interactive House Sales Dashboard to analyze and 
 
 - SQL Advanced Certificate <a href="https://www.hackerrank.com/certificates/7b5636a5253f" target="_blank">view</a>
 
-### Microsoft Office Specialist 
+### Microsoft Office Specialist (MOS)
 
 - Microsoft Word (981 points) <a href="https://drive.google.com/file/d/1hcvpx8Y4Ky4RAYroVPTVmTCqfLYe4MD6/view?usp=drive_link">view</a>
 - Microsoft Excel (957 points) <a href="https://drive.google.com/file/d/13UyOdLEfmu9tAQJD-oMFI0CrHzO5ir_B/view?usp=drive_link" target="_blank">view</a>
