@@ -20,14 +20,52 @@ Welcome to my data science portfolio, featuring key projects that demonstrate my
 
 # PROJECTS
 
-### 1. Machine Learning 
+### 1. Data Analysis
+
+<a href="https://github.com/nguyenanhtuan1102/RFM-Analysis"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/905d0645-e217-42ce-9346-88fb75c832f1"> **[RFM Analysis](https://github.com/nguyenanhtuan1102/RFM-Analysis)**
+
+The RFM Analysis project segments customers by evaluating Recency, Frequency, and Monetary metrics to understand purchasing behavior, identify key segments, and support targeted marketing strategies.
+
+<br />
+<br />
 
 <a href="https://github.com/nguyenanhtuan1102/creadit-risk-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/a225e0b6-8fd8-4cb6-90c6-196d09457cf4"> **[Credit Risk Classification](https://github.com/nguyenanhtuan1102/creadit-risk-classification)**
 
-Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
+
+This project aimed to classify clients based on their credit risk, which involved building a predictive model that could accurately identify high-risk clients. It was at first place in The Data Analytics Competition.
 
 <br />
 <br />
+
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Electronic%20Retailer%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/e1ac77c8-cd27-41ee-a21b-da512d844783"> **[Electronics Retailer Analysis](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Electronic%20Retailer%20Dashboard)**
+
+This project includes four dashboards: Overview, Products, Customers, and Stores. It highlights the retailer’s strong online sales, profit growth, and the importance of both physical stores and online channels.
+
+<br />
+
+### 2. Data Visualization
+
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard)**
+
+This project aims to create an interactive and insightful dashboard to analyze the British Airways dataset, uncovering trends and enhancing decision-making. Dive into a world of data-driven insights!
+
+<br />
+<br />
+
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard)**
+
+This project aims to create an interactive House Sales Dashboard to analyze and visualize real estate trends, helping users make informed decisions. Discover key insights in the housing market with ease!
+
+<br />
+<br />
+
+<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f4613cd8-4cc7-4c89-8cc4-543f55d44f0a"> **[Data Professional Survey Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard)**
+
+A comprehensive project designed to visualize, analyze, and present insights from professional survey data, highlighting key trends, skills, and challenges faced by data professionals across various industries
+
+<br />
+
+### 3. Machine Learning 
 
 <a href="https://github.com/nguyenanhtuan1102/house-price-prediction"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/95fcde58-ec24-4981-98dc-3ac8a412e5de"> **[House Price Prediction](https://github.com/nguyenanhtuan1102/house-price-prediction)**
 
@@ -48,8 +86,9 @@ The Application predicts HPG stock prices using historical data by ARIMA model. 
 Aims of this project is to compare the performance of Logistic Regression with SMOTE and XGBoost without SMOTE in classifying loan repayment, assessing their suitability for predicting loan approval status.
 
 <br />
+<br />
 
-### 2. Artificial Neural Network
+### 4. Artificial Neural Network
 
 <a href="https://github.com/nguyenanhtuan1102/numeric-image-classification"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/b2bbce08-b858-4ef4-93f1-15e36a14725a"> **[Numeric Image Classification](https://github.com/nguyenanhtuan1102/numeric-image-classification)**
 
@@ -64,7 +103,7 @@ This project utilizes Artificial Neural Network (ANN) to construct a machine lea
 
 <br />
 
-### 3. Natural Language Processing
+### 5. Natural Language Processing
 
 <a href="https://github.com/nguyenanhtuan1102/GPT-PowerApps"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/9f9899cd-12c8-4d4f-8999-0ea45e9c2b46"> **[GPT PowerApps](https://github.com/nguyenanhtuan1102/GPT-PowerApps)**
 
@@ -100,7 +139,7 @@ In this amazing scientific research project, we endeavor to differentiate users 
 
 <br />
 
-### 4. SQL
+### 6. SQL
 
 <a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/ecbb8780-f9f3-4dac-9d20-626ee003e392"> **[Danny's Diner](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Danny's%20Diner)**
 
@@ -112,31 +151,15 @@ This project focus on querying and analyzing data from three tables: members, me
 
 <a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Data%20Bank"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/348fea0b-6993-4d56-a359-e0daa7394ec6"> **[Data Bank](https://github.com/nguyenanhtuan1102/SQL-case-studies/tree/master/Data%20Bank)**
 
-This project will focus on querying and analyzing data from four tables: customer, customer nodes, customer transaction, and regions in the Bank Data to derive valuable insights into the bank's operations.
+The Data Bank SQL project explores digital-only banking and secure data storage, analyzing variety customer metrics, data needs, and growth to support business forecasting and expansion planning in business.
 
-
-<br />
-<br />  
-
-### 5. Data Visualization
-
-<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/af79af11-dacc-4d14-9d87-0b593390718c"> **[British Airways Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/British%20Airways%20Dashboard)**
-
-This project aims to create an interactive and insightful dashboard to analyze the British Airways dataset, uncovering trends and enhancing decision-making. Dive into a world of data-driven insights!
 
 <br />
 <br />
 
-<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/0bde7869-a1f8-4691-af29-af3a6e35e971"> **[House Sales Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/House%20Sales%20Dashboard)**
+<a href="https://github.com/nguyenanhtuan1102/SQL-case-studies/blob/master/Foodie%20Fi/README.md"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/3dc39684-0144-4e2f-9e66-2f2b3832770c"> **[Foodie-Fi](https://github.com/nguyenanhtuan1102/SQL-case-studies/blob/master/Foodie%20Fi/README.md)**
 
-This project aims to create an interactive House Sales Dashboard to analyze and visualize real estate trends, helping users make informed decisions. Discover key insights in the housing market with ease!
-
-<br />
-<br />
-
-<a href="https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard"> <img align="left" width="285" height="150" src="https://github.com/user-attachments/assets/f4613cd8-4cc7-4c89-8cc4-543f55d44f0a"> **[Data Professional Survey Dashboard](https://github.com/nguyenanhtuan1102/Visualization-Projects/tree/master/Data%20Professional%20Survey%20Dashboard)**
-
-A comprehensive project designed to visualize, analyze, and present insights from professional survey data, highlighting key trends, skills, and challenges faced by data professionals across various industries
+This project focus on querying and analyzing data from three tables: members, menu, and sales in the Database Danny's Diner to derive valuable insights into the diner's operations and customer behavior.
 
 <br />
 
